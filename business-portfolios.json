@@ -1,16 +1,18 @@
-[
-    {
-        "id": 1,
-        "title": "My Card",
-        "subtitle": "About the Services",
-        "imageUrl": "https://i.picsum.photos/id/1/400/300.jpg",
-        "description": "lorem ipsum simple dummy text.simple dummy text goes here.But as usual, time ticks on, and that is, I guess, is how you find yourself staring down the completed ravaged back-to-school section at Target wondering why the pencils are already out because didn’t summer just start? Here we go again.At its core, this is just a playful, easy five-ingredient recipe:",
-    },
-    {
-        "id": 2,
-        "title": "Bakery",
-        "subtitle": "About the Services",
-        "imageUrl": "https://i.picsum.photos/id/33/400/300.jpg",
-        "description": "lorem ipsum simple dummy text.simple dummy text goes here.But as usual, time ticks on, and that is, I guess, is how you find yourself staring down the completed ravaged back-to-school section at Target wondering why the pencils are already out because didn’t summer just start? Here we go again.At its core, this is just a playful, easy five-ingredient recipe:",
-    }
-]
+{
+    "business_portfolios": [
+        {
+            "id": 1,
+            "title": "My Card",
+            "subtitle": "About the Services",
+            "imageUrl": "https://i.picsum.photos/id/1/400/300.jpg",
+            "description": "lorem ipsum simple dummy text.simple dummy text goes here.But as usual, time ticks on, and that is, I guess, is how you find yourself staring down the completed ravaged back-to-school section at Target wondering why the pencils are already out because didn’t summer just start? Here we go again.At its core, this is just a playful, easy five-ingredient recipe:",
+        },
+        {
+            "id": 2,
+            "title": "Bakery",
+            "subtitle": "About the Services",
+            "imageUrl": "https://i.picsum.photos/id/33/400/300.jpg",
+            "description": "lorem ipsum simple dummy text.simple dummy text goes here.But as usual, time ticks on, and that is, I guess, is how you find yourself staring down the completed ravaged back-to-school section at Target wondering why the pencils are already out because didn’t summer just start? Here we go again.At its core, this is just a playful, easy five-ingredient recipe:",
+        }
+    ]
+}
